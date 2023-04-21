@@ -19,5 +19,6 @@ public class SpaceInvaderMemberVariiable {
         simv.moveRight();
         simv.moveRight();
         simv.moveRight();
+        simv.moveLeft();
     }
 }
